@@ -41,7 +41,7 @@ El Conversor de divisas alura nos permite saber el cambio de nuestra moneda loca
 
 2. Descargue el IDE [Eclipse.](https://www.eclipse.org/downloads/)
 
-5. Clone el repositoria mediante el siguiente enlace: https://github.com/juanturriago7/challenge_one_conversor_divisas.git
+5. Clone el repositoria mediante el siguiente enlace: https://github.com/sdsanchez1/Conversor_divisas.git
 
 7. Abra el proyecto en el IDE Eclipse.
 
